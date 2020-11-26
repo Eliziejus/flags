@@ -1,0 +1,20 @@
+body{
+	margin: 0;
+}
+.container-fluid{
+	padding-top: 1%;
+	height: 100%;
+	width: 100%;
+	
+}
+.header{
+	padding: 0;
+	
+	
+}
+.main{
+	margin-top: 5%;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
